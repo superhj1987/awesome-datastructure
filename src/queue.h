@@ -1,10 +1,10 @@
-//
-//  queue.h
-//  elb-agent
-//
-//  Created by Bryant Hang on 14-6-6.
-//
-//
+/*
+**队列实现**
+
+对于数据节点，需要在数据结构体中加入一个类型为node_t的域；
+然后使用下面的函数进行数据插入。
+其中queue为队列指针，p为数据节点的node_t域，member为数据节点的node_t域的名字；type为数据节点类型；
+ */
 
 #ifndef __QUEUE_H__
 #define __QUEUE_H__
