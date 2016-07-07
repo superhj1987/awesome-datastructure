@@ -14,7 +14,7 @@ Posix thread pool  implementation in c
 
 - Usage
 
-/examples/testTpool.c
+<examples/testTpool.c>
 
 ## Hashmap
 
@@ -36,6 +36,6 @@ Queue implementation in c
 
 - Usage
 
-/examples/testQueue.c
+<examples/testQueue.c>
 
 
